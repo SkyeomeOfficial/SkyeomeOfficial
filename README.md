@@ -6,7 +6,7 @@ Hi there! 👋 I'm Skyeome, a passionate developer specializing in Frontend Deve
 
 ### 🔧 Technologies & Tools
 - **Programming Languages**: Lua, JavaScript, Python, etc.
-- **Frameworks & Libraries**: React, Node.js, FiveM
+- **Frameworks & Libraries**: React, Node.js
 - **Tools & Platforms**: Git, Docker, VS Code
 - **Game Development**: FiveM, GTA V Modding
 
