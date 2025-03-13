@@ -13,13 +13,13 @@ Hi there! 👋 I'm Skyeome, a passionate developer specializing in Frontend Deve
 ---
 
 ### 📂 Featured Projects
-- **[FiveM Game Scripts](https://github.com/yourusername/fivem-scripts)**  
+- **[FiveM Game Scripts]**  
   Custom scripts for enhancing FiveM servers, written in Lua and React.
   
-- **[React Dashboard](https://github.com/yourusername/react-dashboard)**  
+- **[React Dashboard]**  
   A feature-rich admin dashboard for managing server resources.
 
-- **[Open Source Contributions](https://github.com/yourusername/contributions)**  
+- **[Open Source Contributions]**  
   My contributions to various open-source projects.
 
 ---
@@ -32,9 +32,8 @@ Hi there! 👋 I'm Skyeome, a passionate developer specializing in Frontend Deve
 ---
 
 ### 📫 Let's Connect!
-- [Portfolio Website](https://yourwebsite.com)
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://www.linkedin.com/in/himesh-singh-7ba27b302/)
+- [Twitter](https://x.com/MrSkyeome)
 
 ---
 
