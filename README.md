@@ -13,13 +13,13 @@ Hi there! 👋 I'm Skyeome, a passionate developer specializing in Frontend Deve
 ---
 
 ### 📂 Featured Projects
-- **[FiveM Game Scripts]**  
+- **FiveM Game Scripts**  
   Custom scripts for enhancing FiveM servers, written in Lua and React.
   
-- **[React Dashboard]**  
+- **React Dashboard**  
   A feature-rich admin dashboard for managing server resources.
 
-- **[Open Source Contributions]**  
+- **Open Source Contributions**  
   My contributions to various open-source projects.
 
 ---
